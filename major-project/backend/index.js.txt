@@ -1,0 +1,10 @@
+function addition(num1,num2){
+
+console.log("number 1 passed: ",num1);
+console.log("number 2 passed: ",num2);
+
+var numAdd = num1 + num2;
+
+console.log("Addition of numbers is: ", numAdd);
+
+}
