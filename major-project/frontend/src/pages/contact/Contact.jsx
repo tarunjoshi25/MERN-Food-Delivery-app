@@ -35,13 +35,13 @@ const Contact = () => {
           </h2>
           <div className="contact-details-info">
             <p>
-              <LocalPhoneIcon /> +91 9999999999
+              <LocalPhoneIcon /> +91 9917967937
             </p>
             <p>
-              <EmailIcon /> test@gmail.com
+              <EmailIcon /> tarunjoshier@gmail.com
             </p>
             <p>
-              <LocationOnIcon /> Test
+              <LocationOnIcon /> Gurgaon
             </p>
           </div>
         </div>
